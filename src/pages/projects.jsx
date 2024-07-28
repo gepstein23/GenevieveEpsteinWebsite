@@ -52,10 +52,6 @@ const Projects = () => {
 							VMware Contributions
 						</div>
 
-						<div className="subtitle projects-subtitle">
-							Below are several notable Cloud Director projects at VMware that I held significant/leading roles in developing & designing over the years.
-						</div>
-
 						<div className="projects-list">
 							<VmwareProjects />
 						</div>
