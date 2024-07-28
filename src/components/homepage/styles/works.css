@@ -4,6 +4,12 @@
 	margin-bottom: 10px;
 }
 
+.works {
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
 .work {
 	display: flex;
 	padding-bottom: 40px;

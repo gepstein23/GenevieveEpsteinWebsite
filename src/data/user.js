@@ -1,30 +1,28 @@
+var homepageDescription = 
+`Senior Full Stack Software Engineer @ FanDuel`
+
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		name: "Genevieve Epstein",
+		email: "genevieve.epstein@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/gepstein23",
+		linkedin: "https://www.linkedin.com/in/genevieveepstein/",
+		facebook: "https://facebook.com/shlazer",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
-		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+		title: "Genevieve Epstein",
+		description: homepageDescription,
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Hello! I'm Genevieve.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"",
 	},
 
 	articles: {
@@ -35,49 +33,49 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Poker High Hand Simulator",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				" Researching the optimization of High Hand promotions using MCTS by developing a memory-efficient Java app that performs adjustable simulations – with custom-built card-playing mechanics, UI, animations, and ML capabilities.",
+			logo: "../royalflush.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/gepstein23/PokerHighHandSimulator",
 		},
 
 		{
-			title: "Project 2",
+			title: "Table Tennis Elite Tournament Predictor",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				" Forecasts table tennis tournament match outcomes through the recursive remote scraping of historical match data, generating easily interpretable predictions of a players’ relative performance, based on their respective playing histories via a CL program.",
+			logo: "../tabletennis.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
+			link: "https://github.com/gepstein23/TableTennisEliteTournamentPredictor",
+		}
+	],
 
+	vmware_projects: [
 		{
-			title: "Project 3",
+			title: "Fast Cross vCenter Server vApp Instantiation Utilizing Shared Storage 10.4",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"",
+			logo: "../db.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://docs.vmware.com/en/VMware-Cloud-Director/10.4/rn/vmware-cloud-director-104-release-notes/index.html#:~:text=Fast%20Cross%20vCenter%20Server%20vApp%20Instantiation%20Utilizing%20Shared%20Storage",
 		},
-
 		{
-			title: "Project 4",
+			title: "Improved VM Template instantiation performance with Cross VC Clone 10.6",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"",
+			logo: "../vm.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://docs.vmware.com/en/VMware-Cloud-Director/10.6/rn/vmware-cloud-director-106-release-notes/index.html#:~:text=Improved%20VM%20Template%20instantiation%20performance",
 		},
-
 		{
-			title: "Project 5",
+			title: "Replication Tracking VM Placement Solution 10.5.1",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"",
+			logo: "../fo.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
+			link: "https://docs.vmware.com/en/VMware-Cloud-Director-Availability/4.7/VMware-Cloud-Director-Availability-User-Guide/GUID-0239E9EA-25DA-4262-88F2-F76C59F4E268.html",
+		}
 	],
 };
 

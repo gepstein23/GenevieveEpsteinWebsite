@@ -1,41 +1,40 @@
 import React from "react";
-import { faBriefcase } from "@fortawesome/free-solid-svg-icons";
+import { faBook } from "@fortawesome/free-solid-svg-icons";
 
 import Card from "../common/card";
 
 import "./styles/works.css";
 
-const Works = () => {
+const Education = () => {
 	return (
 		<div className="works">
 			<Card
-				icon={faBriefcase}
-				title="Work"
+				icon={faBook}
+				title="Education"
 				body={
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./fanduel.png"
-								alt="fanduel"
+								src="./nu.png"
+								alt="works"
 								className="work-image"
 							/>
-							<div className="work-title">FanDuel</div>
+							<div className="work-title">Northeastern University</div>
 							<div className="work-subtitle">
-								Senior Software Engineer
+                                B.Sc., Computer Science, Minor in Music
 							</div>
-							<div className="work-duration">2024 - Present</div>
+							<div className="work-duration">2017 - 2021</div>
 						</div>
 						<div className="work">
 							<img
-								src="./vmware.png"
+								src="./lhs.png"
 								alt="VMware by Broadcom"
 								className="work-image"
 							/>
-							<div className="work-title">VMware by Broadcom</div>
+							<div className="work-title">Layton High School</div>
 							<div className="work-subtitle">
-								Senior Software Engineer - ICB 3
 							</div>
-							<div className="work-duration">2019 - 2024</div>
+							<div className="work-duration">Grad. 2017</div>
 						</div>
 					</div>
 				}
@@ -44,4 +43,4 @@ const Works = () => {
 	);
 };
 
-export default Works;
+export default Education;
