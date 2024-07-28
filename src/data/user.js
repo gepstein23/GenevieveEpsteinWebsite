@@ -4,6 +4,7 @@ var homepageDescription =
 const INFO = {
 	main: {
 		name: "Genevieve Epstein",
+		title: "Genevieve Epstein",
 		email: "genevieve.epstein@gmail.com",
 		logo: "../logo.png",
 	},
