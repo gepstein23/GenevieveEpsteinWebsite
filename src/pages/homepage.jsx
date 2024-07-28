@@ -154,10 +154,6 @@ const Homepage = () => {
 							<div className="homepage-works">
 								<Works />
 							</div>
-
-							<div className="homepage-education">
-								<Education />
-							</div>
 						</div>
 
 						<div className="page-footer">
