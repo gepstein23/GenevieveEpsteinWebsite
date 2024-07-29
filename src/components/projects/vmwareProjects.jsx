@@ -9,9 +9,9 @@ import "./styles/allProjects.css";
 
 const VmwareProjects = () => {
 	return (
-		<div className="vmware-projects-container">
+		<div className="all-projects-container">
 			{INFO.vmware_projects.map((project, index) => (
-				<div className="vmware-projects-project" key={index}>
+				<div className="all-projects-project" key={index}>
 					<Project
 						logo={project.logo}
 						title={project.title}
