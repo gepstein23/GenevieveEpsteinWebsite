@@ -142,6 +142,16 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
+							<a
+								href={INFO.socials.youtube}
+								target="_blank"
+								rel="noreferrer"
+							>
+								<FontAwesomeIcon
+									icon={faYoutube}
+									className="homepage-social-icon"
+								/>
+							</a>
 						</div>
 
 						<div className="homepage-projects">
