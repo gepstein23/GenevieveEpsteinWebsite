@@ -2,14 +2,14 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"Genevieve Epstein, Senior Full Stack Software Engineer",
+			"Senior Full Stack Software Engineer @ FanDuel | Former SSE @ VMware by Broadcom | Northeastern University c.o. 2021 | Cello & Viola Player | Snowboarding Enthusiast",
 		keywords: ["Genevieve", "Genevieve Epstein"],
 	},
 
 	{
 		page: "about",
 		description:
-			"Genevieve Epstein, Senior Full Stack Software Engineer",
+			"Senior Full Stack Software Engineer @ FanDuel | Former SSE @ VMware by Broadcom | Northeastern University c.o. 2021 | Cello & Viola Player | Snowboarding Enthusiast",
 		keywords: ["Genevieve", "Genevieve Epstein"],
 	},
 
