@@ -56,7 +56,6 @@ const Projects = () => {
 							<VmwareProjects />
 						</div>
 
-						
 						<div className="title projects-title">
 							FanDuel Contributions
 						</div>

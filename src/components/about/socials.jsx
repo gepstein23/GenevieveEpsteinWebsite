@@ -4,6 +4,7 @@ import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import {
 	faGithub,
 	faLinkedin,
+	faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 
 import INFO from "../../data/user";
@@ -39,6 +40,22 @@ const Socials = () => {
 						/>
 					</div>
 					<div className="social-text">Follow on LinkedIn</div>
+				</a>
+			</div>
+			
+			<div className="social">
+				<a
+					href={INFO.socials.youtube}
+					target="_blank"
+					rel="noreferrer"
+				>
+					<div className="social-icon">
+						<FontAwesomeIcon
+							icon={faYoutube}
+							className="social-icon"
+						/>
+					</div>
+					<div className="social-text">Follow on Youtube</div>
 				</a>
 			</div>
 
