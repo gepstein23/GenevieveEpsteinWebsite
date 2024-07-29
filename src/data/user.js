@@ -50,6 +50,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/gepstein23/TableTennisEliteTournamentPredictor",
 		}
+		{
+			title: "Poker Hand Memorializer",
+			description:
+				" In the works... ",
+			logo: "../royalflush.png",
+			linkText: "View Project",
+			link: "https://github.com/gepstein23/PokerHandMemorializer",
+		}
 	],
 
 	vmware_projects: [
