@@ -49,7 +49,7 @@ const INFO = {
 			logo: "../tabletennis.png",
 			linkText: "View Project",
 			link: "https://github.com/gepstein23/TableTennisEliteTournamentPredictor",
-		}
+		},
 		{
 			title: "Poker Hand Memorializer",
 			description:
