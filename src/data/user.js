@@ -13,6 +13,7 @@ const INFO = {
 		github: "https://github.com/gepstein23",
 		linkedin: "https://www.linkedin.com/in/genevieveepstein/",
 		facebook: "https://facebook.com/shlazer",
+		youtube: "https://www.youtube.com/@genevieve211/featured",
 	},
 
 	homepage: {
@@ -23,7 +24,7 @@ const INFO = {
 	about: {
 		title: "Hello! I'm Genevieve.",
 		description:
-			"",
+			"Memoire loading...",
 	},
 
 	articles: {
