@@ -36,7 +36,7 @@ const MaintenancePage = () => {
 			</Helmet>
 
 			<div style={maintenanceStyle}>
-				<div style={titleStyle}>We'll be back soon!</div>
+				<div style={titleStyle}>I'll be back soon!</div>
 				<div style={subtitleStyle}>
 					This page is currently under maintenance.
 				</div>
